@@ -3,7 +3,7 @@ name: Personal Data Deletion Request
 about: Use this issue template to request the deletion of your personal data from
   our systems
 title: ''
-labels: ''
+labels: data-deletion
 assignees: ''
 
 ---
