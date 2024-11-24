@@ -13,6 +13,13 @@ assignees: ''
 Thank you for reaching out regarding the deletion of your personal data. To proceed with your request, please send a message to our official [LinkedIn page](https://www.linkedin.com/company/cloud-native-study-group).
 
 ---
+## Confirmation
+
+- [ ] I confirm that I am requesting the deletion of my personal data.
+- [ ] I confirm that I have sent a message to the LinkedIn page mentioned above.
+- [ ] I understand that this request will delete my personal data from the system, and this action cannot be reversed.
+
+---
 
 ## Important Notice
 
