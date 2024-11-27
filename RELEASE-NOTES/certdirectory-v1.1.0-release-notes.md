@@ -39,7 +39,7 @@ Introducing CertDirectory: our first public release is now available!
 
 ## ✅ Contributors
 A huge thanks to everyone who contributed to this release:  
-@vidura-chathuranga, @SasinduDananjaya, @yasasipadukka, @geevinda0830
+[@vidura-chathuranga](https://github.com/vidura-chathuranga), [@SasinduDananjaya](https://github.com/SasinduDananjaya), [@yasasipadukka](https://github.com/yasasipadukka), [@geevinda0830](https://github.com/geevinda0830)
 
 ---
 
