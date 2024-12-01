@@ -13,21 +13,7 @@ CertDirectory public release v1.3.0 is now available!
 - **[Page navication]**: Improved navigation flow
 
 ## 🐛 Bug Fixes
-- 
 - Disabling Credly link modification
-
-## 🧰 Maintenance
-N/A
-
----
-
-## 📚 Documentation
-N/A
-
----
-
-## 📦 Breaking Changes
-N/A
 
 ---
 
@@ -36,10 +22,5 @@ A huge thanks to everyone who contributed to this release:
 [@vidura-chathuranga](https://github.com/vidura-chathuranga), [@SasinduDananjaya](https://github.com/SasinduDananjaya), [@yasasipadukka](https://github.com/yasasipadukka), [@geevinda0830](https://github.com/geevinda0830)
 
 
----
 
-## 📝 Notes
-N/A
-
----
 
