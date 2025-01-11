@@ -13,4 +13,4 @@ A platform to showcase certifications, track achievements, and receive updates t
 ##### [[v1.3.0] - 2014-12-01](https://github.com/CloudNativeStudyGroup/CertDirectory/blob/main/RELEASE-NOTES/certdirectory-v1.3.0-release-notes.md)
 ##### [[v1.2.0] - 2014-11-29](https://github.com/CloudNativeStudyGroup/CertDirectory/blob/main/RELEASE-NOTES/certdirectory-v1.2.0-release-notes.md)
 ##### [[v1.1.0] - 2014-11-27](https://github.com/CloudNativeStudyGroup/CertDirectory/blob/main/RELEASE-NOTES/certdirectory-v1.1.0-release-notes.md)
-https://github.com/CloudNativeStudyGroup/CertDirectory/blob/main/RELEASE-NOTES/certdirectory-v1.10.0-release-notes.md
+
